@@ -5,7 +5,7 @@ For more details about this component, please refer to
 https://github.com/Limych/ha-beward
 """
 
-#  Copyright (c) 2019-2024, Andrey "Limych" Khrolenok <andrey@khrolenok.ru>
+#  Copyright (c) 2019-2025, Andrey "Limych" Khrolenok <andrey@khrolenok.ru>
 #  Creative Commons BY-NC-SA 4.0 International Public License
 #  (see LICENSE.md or https://creativecommons.org/licenses/by-nc-sa/4.0/)
 from __future__ import annotations
@@ -211,11 +211,10 @@ class BewardFileCamera(LocalFile):
         super().__init__(
             CAMERAS[camera_type][0].format(controller.name),
             controller.history_image_path(CAMERAS[camera_type][2]),
+            f"{controller.unique_id}-file-{camera_type}",
         )
 
         self._controller = controller
-
-        self._attr_unique_id = f"{self._controller.unique_id}-file-{camera_type}"
 
     @property
     def device_info(self) -> DeviceInfo | None:
