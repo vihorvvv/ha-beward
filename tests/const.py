@@ -16,7 +16,7 @@ from custom_components.beward import CONF_CAMERAS
 MOCK_HOST: Final = "192.168.0.2"
 MOCK_PORT: Final = 81
 MOCK_USERNAME: Final = "test_username"
-MOCK_PASSWORD: Final = "test_password"
+MOCK_PASSWORD: Final = "test_password"  # ruff: noqa: S105
 
 # Mock config data to be used across multiple tests
 MOCK_CONFIG: Final = {
