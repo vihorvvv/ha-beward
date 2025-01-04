@@ -26,7 +26,6 @@ File | Purpose | Documentation
 -- | -- | --
 `.devcontainer.json` | Used for development/testing with Visual Studio Code. | [Documentation](https://code.visualstudio.com/docs/remote/containers)
 `.github/ISSUE_TEMPLATE/*.yml` | Templates for the issue tracker | [Documentation](https://help.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository)
-`.vscode/tasks.json` | Tasks for the devcontainer. | [Documentation](https://code.visualstudio.com/docs/editor/tasks)
 `custom_components/integration_blueprint/*` | Integration files, this is where everything happens. | [Documentation](https://developers.home-assistant.io/docs/creating_component_index)
 `tests/*` | Integration unit tests. |
 `CONTRIBUTING.md` | Guidelines on how to contribute. | [Documentation](https://help.github.com/en/github/building-a-strong-community/setting-guidelines-for-repository-contributors)
