@@ -54,12 +54,11 @@ Platform | Description
 
 <p align="center">* * *</p>
 I put a lot of work into making this repo and component available and updated to inspire and help others! I will be glad to receive thanks from you — it will give me new strength and add enthusiasm:
-<p align="center"><br>
-<a href="https://www.patreon.com/join/limych?" target="_blank"><img src="http://khrolenok.ru/support_patreon.png" alt="Patreon" width="250" height="48"></a>
-<br>or&nbsp;support via Bitcoin or Etherium:<br>
-<a href="https://sochain.com/address/BTC/16yfCfz9dZ8y8yuSwBFVfiAa3CNYdMh7Ts" target="_blank"><img src="http://khrolenok.ru/support_bitcoin.png" alt="Bitcoin" width="150"><br>
-16yfCfz9dZ8y8yuSwBFVfiAa3CNYdMh7Ts</a>
-</p>
+<p align="center"><a href="https://www.patreon.com/join/limych?" target="_blank"><img src="http://khrolenok.ru/support_patreon.png" alt="Patreon" width="250" height="48"></a></p>
+
+|                                                                                                                           Bitcoin                                                                                                                           |                                                                              Ethereum                                                                               |                                                                                                         Monero                                                                                                         |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <div style="word-break: break-all"><a href="https://sochain.com/address/BTC/16yfCfz9dZ8y8yuSwBFVfiAa3CNYdMh7Ts" target="_blank"><img alt="Bitcoin" src="http://khrolenok.ru/support_btc.png" width="200"/><br/>16yfCfz9dZ8y8yuSwBFVfiAa3CNYdMh7Ts</a></div> | <div style="word-break: break-all"><img alt="Ethereum" src="http://khrolenok.ru/support_eth.png" width="200"/><br/>0x9FB9429f9A85Fa2395Bb59e50452F64977435d61</div> | <div style="word-break: break-all"><img alt="Monero" src="http://khrolenok.ru/support_xmr.png" width="200"/><br/>48Kt2ksKYxHg46T5sJ7feBXtndHhxk1JgYJwtwGG8Jb7asNFShRwUDtFgX2UvVThXa5GGyGbMCfNJX7YwFZBRDX43q4mT83</div> |
 
 ## Configuration is done in the UI
 
